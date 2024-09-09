@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049078127637",
+    "project_id": "cover-cd74d",
+    "storage_bucket": "cover-cd74d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049078127637:android:d594821d1e56b91457421c",
+        "android_client_info": {
+          "package_name": "com.example.cover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOTvcdljxNG2fRgnuRj88wKIs69bVm68k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
